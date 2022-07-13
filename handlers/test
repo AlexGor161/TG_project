@@ -1,0 +1,4 @@
+y = int(input())
+x = 10
+if x > 5 and (x == 10 or x == 11):
+    print("OK")
